@@ -1,1 +1,1 @@
-# stack
+# Stack in C language
